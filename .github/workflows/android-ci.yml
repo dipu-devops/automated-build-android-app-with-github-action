@@ -1,7 +1,7 @@
 name: Android CI
 
 env:
-  # The name of the main module repository
+  # The name of the main module repositorys
   main_project_module: app
 
   # The name of the Play Store
